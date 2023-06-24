@@ -153,3 +153,6 @@ form.post-password-form input[type="submit"],
 .art-cirkle-progress path:last-child {
   stroke: #ffc107;
 }
+p { 
+  color: #ffc107;
+  }
