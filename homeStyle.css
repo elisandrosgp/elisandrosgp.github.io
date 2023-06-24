@@ -1,0 +1,155 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.art-banner .art-banner-overlay .art-banner-title h1,
+.content-sidebar .widget-title {
+  color: #fff;
+}
+
+@media (max-width: 1600px) {
+  .art-banner .art-banner-overlay .art-banner-title h1 {
+    color: #fff;
+  }
+}
+
+@media (max-width: 1400px) {
+  .art-banner .art-banner-overlay .art-banner-title h1 {
+    color: #fff;
+  }
+}
+
+@media (max-width: 920px) {
+  .art-banner .art-banner-overlay .art-banner-title h1 {
+    color: #fff;
+  }
+}
+
+body,
+a,
+.art-table,
+.art-link,
+.art-preloader .art-preloader-content .art-preloader-load .progressbar-text,
+.art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp:after,
+.art-info-bar
+  .art-lang-skills
+  .art-lang-skills-item
+  .art-cirkle-progress
+  .progressbar-text,
+.art-info-bar
+  .art-hard-skills
+  .art-hard-skills-item
+  .art-line-progress
+  .progressbar-text,
+.art-info-bar .art-knowledge-list li,
+.art-info-bar .art-ls-social a,
+.art-menu-bar nav .main-menu .menu-item a,
+.art-menu-bar
+  nav
+  .main-menu
+  .menu-item.current-menu-item
+  .sub-menu
+  .menu-item
+  a,
+.art-menu-bar
+  nav
+  .main-menu
+  .menu-item.current-menu-parent
+  .sub-menu
+  .menu-item
+  a,
+.art-contact-form label,
+.art-pagination span.dots,
+.footer,
+.art-filter a,
+.widget.widget_nav_menu ul li,
+.widget.widget_pages ul li,
+.widget_categories ul li,
+.comment-info,
+.art-blog-card .art-project-category {
+  color: #8c8c8e;
+}
+
+.art-menu-bar-btn span,
+.art-menu-bar-btn span:after,
+.art-menu-bar-btn span:before,
+.art-slider-navigation .swiper-pagination-bullet {
+  background: #8c8c8e;
+}
+
+.art-menu-bar nav .main-menu,
+.art-menu-bar nav .main-menu .menu-item a {
+  color: #8c8c8e;
+}
+
+.art-btn,
+.art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp,
+.art-menu-bar .art-language-change li.art-active-lang,
+.art-price.art-popular-price:before,
+.art-slider-navigation
+  .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.art-contact-form .art-input.art-active + label,
+.art-contact-form .art-input:focus + label,
+.art-contact-form label.focused,
+.content-sidebar td#today,
+.single-post-text table td#today,
+.single-post-text ul > li:before,
+.comment-text ul > li:before,
+.comment-form .btn.fill,
+form.post-password-form input[type="submit"],
+.sticky:before,
+.art-menu-bar .cart-btn .cart-icon .cart-count,
+  input.button:hover
+  #respond
+  input#submit:hover,
+
+  a {
+  background-color: #ffc107;
+}
+
+.art-link.art-color-link,
+.art-link.art-color-link:hover,
+.art-info-bar .art-name:hover a,
+.art-info-bar .art-knowledge-list li:before,
+.art-code i,
+.art-counter-frame .art-counter-box .art-counter,
+.art-counter-frame .art-counter-box .art-counter-plus,
+.art-price .art-price-body .art-price-cost .art-number,
+.art-price .art-price-body .art-price-list ul li:before,
+.art-price .art-price-body .art-price-list ul li.art-empty-item:before,
+.art-testimonial .art-testimonial-footer .art-star-rate,
+.post-page-numbers.current,
+.art-pagination span,
+.art-pagination a.next,
+.art-pagination a.prev,
+.art-pagination a.next:hover,
+.art-pagination a.prev:hover,
+.single-post-text p a,
+.comment-text p a,
+.post-text-bottom span.cat-links a,
+.post-text-bottom .tags-links a,
+.post-text-bottom .tags-links span,
+.content-sidebar .tagcloud a,
+.content-sidebar a:hover,
+.error-page__num,
+.art-info-bar .art-knowledge-list li i {
+  color: #ffc107;
+}
+
+.art-custom-list li:before,
+.art-timeline .art-timeline-item .art-timeline-mark,
+.art-form-field textarea.art-active,
+.art-form-field textarea:focus,
+.post-text-bottom .tags-links a,
+.post-text-bottom .tags-links span,
+.content-sidebar .tagcloud a,
+  border-color: #ffc107;
+}
+
+.art-preloader-load path:last-child,
+.art-line-progress path:last-child,
+.art-cirkle-progress path:last-child {
+  stroke: #ffc107;
+}
